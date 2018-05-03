@@ -1,3 +1,3 @@
 public class Main{
-	private String a;
+	private String a;//사용자 이름
 }
